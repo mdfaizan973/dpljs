@@ -1,0 +1,24 @@
+{
+  "name": "dpljs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdfaizan973/dpljs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdfaizan973/dpljs/issues"
+  },
+  "homepage": "https://github.com/mdfaizan973/dpljs#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
