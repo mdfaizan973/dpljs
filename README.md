@@ -2,9 +2,10 @@
 # npm init -y
 #  npm i json-server
 # package.json -->
-script {
-    "start": "json-server --watch db.json"
-}
+ "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
 # npm start
 # db.json will have have data
 # create --> index.js 
